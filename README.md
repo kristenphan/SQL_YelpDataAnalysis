@@ -12,4 +12,4 @@ If you're currently taking the same course, please refrain yourself from checkin
 <br/>
 __Assignment Description:__
 <br/>
-Analyze Yelp dataset ER diagram. Profile and run queries to analyze Yelp dataset (Yelp is a crowd-sourced reviews platform).
+Analyze the ER diagram of a set of data from Yelp, a crowd-sourced reviews platform, and perform queries to draw pertinent inferences and analysis
